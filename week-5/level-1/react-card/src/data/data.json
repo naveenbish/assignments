@@ -1,0 +1,30 @@
+{
+    "user1" :{
+        "name": "Naveen",
+        "desc": "here the the description",
+        "Interests": [
+            "Js",
+            "html",
+            "CSS",
+            "Tailwind",
+            "AWS",
+            "Node",
+            "Express",
+            "React"
+        ]
+    },
+    "user2" :{
+        "name": "Nitin",
+        "desc": "here the the description",
+        "Interests": [
+            "Js",
+            "html",
+            "CSS",
+            "Tailwind",
+            "AWS",
+            "Node",
+            "Express",
+            "React"
+        ]
+    }
+}
